@@ -1,8 +1,26 @@
 # stepperMotor
-大三上设计与制造大作业 实现了用重力感应控制小车前进转弯爬楼梯的三个电机。
+大三上设计与制造大作业 实现了控制小车前进转弯爬楼梯的三个电机。
 
-app下载地址
-http://115.28.205.144:8080/library/images/stepperMotor.apk
+[app download](https://github.com/meiqua/stepperMotor/raw/master/stepperMotor.apk)  
 
-主要代码传送门：
-https://github.com/meiqua/stepperMotor/blob/master/app/src/main/java/com/meiqua/steppermotor/MainActivity.java
+
+[主要代码传送门](https://github.com/meiqua/stepperMotor/blob/master/app/src/main/java/com/meiqua/steppermotor/MainActivity.java)  
+  
+  
+##screenshot  
+<img src="https://github.com/meiqua/stepperMotor/blob/master/introFiles/Screenshot.png" width = "360" alt="screenshot" align=center />  
+  
+  
+  
+##control_system  
+<img src="https://github.com/meiqua/stepperMotor/blob/master/introFiles/control_system.png" width = "480" alt="control_system" align=center />  
+  
+  
+  
+##arduinoNano  
+<img src="https://github.com/meiqua/stepperMotor/blob/master/introFiles/arduinoNano.png" width = "480" alt="arduinoNano" align=center />  
+
+
+  
+  
+
